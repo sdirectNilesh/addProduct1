@@ -1,0 +1,22 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 39%;
+    height: 60%;
+    margin-left: 270px;
+    margin-top: 200px;
+    background-color: rgba(0, 0, 0, 0.635);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+  }
+  
+  .modal-content {
+    background-color: rgba(255, 255, 255, 0);
+    padding: 20px;
+    border-radius: 15px;
+    height:100%;
+  }
+  
